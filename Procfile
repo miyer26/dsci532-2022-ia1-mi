@@ -1,0 +1,1 @@
+web: gunicorn dsci532-2022-ia1-mi:server
